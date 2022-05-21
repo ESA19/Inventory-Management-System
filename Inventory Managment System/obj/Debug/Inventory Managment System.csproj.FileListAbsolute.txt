@@ -1,0 +1,52 @@
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\bin\Debug\Inventory Managment System.exe.config
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\bin\Debug\Inventory Managment System.exe
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\bin\Debug\Inventory Managment System.pdb
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.AssemblyReference.cache
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Form1.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Properties.Resources.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.GenerateResource.cache
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.CoreCompileInputs.cache
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory Managment System.exe
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory Managment System.pdb
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.musteri.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.musteriModule.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.tedarikci.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.tedarkciModule.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\bin\Debug\Inventory Managment System.exe.manifest
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\bin\Debug\Inventory Managment System.application
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory Managment System.exe.manifest
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory Managment System.application
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Urun.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.UrunModulecs.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Gelir_Gİdercs.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.SiparisModule.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.GelirModule.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Aciliscs.resources
+C:\Users\Ex\Desktop\C#\FreeLance\Inventory Managment System\obj\Debug\Inventory_Managment_System.GiderModule.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\bin\Debug\Inventory Managment System.exe.config
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\bin\Debug\Inventory Managment System.exe.manifest
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\bin\Debug\Inventory Managment System.application
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\bin\Debug\Inventory Managment System.exe
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\bin\Debug\Inventory Managment System.pdb
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.AssemblyReference.cache
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Aciliscs.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Form1.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Gelir_Gİdercs.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.GelirModule.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.GiderModule.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.musteri.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.musteriModule.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Properties.Resources.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.SiparisModule.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.tedarikci.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.tedarkciModule.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.Urun.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory_Managment_System.UrunModulecs.resources
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.GenerateResource.cache
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory Managment System.csproj.CoreCompileInputs.cache
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory Managment System.exe.manifest
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory Managment System.application
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory Managment System.exe
+C:\Users\ESA\Desktop\C#\Freelance\Inventory Managment System\obj\Debug\Inventory Managment System.pdb
